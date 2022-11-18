@@ -162,7 +162,7 @@ function App(){
   return (
   <section>
   <img className="user-p-pic"src={mpic} alt={mname} />
- <h3 className="user-name">{mname}<span className='user-starrate'>&nbsp;&#11088;</span><span>&nbsp;{mrate}</span></h3>
+ <h3 className="user-name">{mname}<span className='user-starrate'>&nbsp;&#11088;</span><span>&nbsp;{mrate}&nbsp;💕</span></h3>
  <p className="mcontents">{mcont}</p>
  </section>
   );
